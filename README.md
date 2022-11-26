@@ -1,5 +1,5 @@
 # Summer research in SNU supervised by Prof. Ahn. 
-- Fabricate a SMA based soft actuator (Designed by Prof. Wang in https://softrobotics.wixsite.com/home, Hanyang University)
-- Design Circuit to Drive Actuator and Implement Control Algorithm.
+- Fabricated a SMA based soft actuator (designed by Prof. Wang in https://softrobotics.wixsite.com/home, Hanyang University)
+- Designed the actuator driver and implemented control algorithm/interface.
 - Avalaible Paper:
 https://www.sciencedirect.com/science/article/pii/S0020740320342867
